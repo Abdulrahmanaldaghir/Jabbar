@@ -40,7 +40,7 @@ Jabbar is an AI-powered assistant system that integrates voice recognition, spee
 
 4. Run the main program from the `japar` folder:
     ```bash
-    cd japar
+    cd jabbar
     python main007.py
     ```
 ## How to Use
