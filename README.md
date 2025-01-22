@@ -1,4 +1,4 @@
-# Jabar
+# Jabbar
 
 Jabar is an AI-powered assistant system that integrates voice recognition, speech synthesis, and image processing. It offers multiple modes such as Friend, Teacher, and Helper, and can respond to queries, provide weather updates, tell stories, and display images. The system uses OpenAI’s GPT models and integrates with various Python libraries to create an interactive experience.
 
@@ -26,7 +26,7 @@ Jabar is an AI-powered assistant system that integrates voice recognition, speec
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/japar.git
+    git clone https://github.com/abdulrahmanaldaghir/jabbar.git
     ```
 
 2. Install the required dependencies:
