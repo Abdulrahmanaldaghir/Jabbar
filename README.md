@@ -38,11 +38,11 @@ Jabbar is an AI-powered assistant system that integrates voice recognition, spee
     - [Get OpenAI API Key](https://platform.openai.com/signup)
     - [Get OpenWeatherMap API Key](https://openweathermap.org/appid)
 
-4. Run the main program:
+4. Run the main program from the `japar` folder:
     ```bash
-    python main007.py
+    cd japar
+    python japar.py
     ```
-
 ## How to Use
 
 Once the program is running, Jabbar will prompt you to select a mode (Friend, Teacher, Helper). You can then interact by speaking, and Jabbar will respond with relevant information, jokes, weather updates, stories, or display images as per the mode.
