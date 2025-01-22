@@ -4,11 +4,11 @@ Jabbar is an AI-powered assistant system that integrates voice recognition, spee
 
 ## Features
 
-- **Voice Recognition**: Japar listens to user queries through a microphone and converts speech to text using Google's Speech Recognition API.
+- **Voice Recognition**: Jabbar listens to user queries through a microphone and converts speech to text using Google's Speech Recognition API.
 - **Speech Synthesis**: Provides responses using both `pyttsx3` and `gTTS` (Google Text-to-Speech).
 - **Multiple Modes**: Switch between modes like *Friend*, *Teacher*, and *Helper*, tailoring the response according to the selected mode.
-- **Image Display**: Japar can display images by fetching them from URLs and showing them using OpenCV.
-- **Weather Information**: Japar can fetch and announce weather information using OpenWeatherMap API.
+- **Image Display**: Jabbar can display images by fetching them from URLs and showing them using OpenCV.
+- **Weather Information**: Jabbar can fetch and announce weather information using OpenWeatherMap API.
 - **Interactive AI Responses**: It uses OpenAI’s GPT models to process queries and generate text-based responses.
 
 ## Requirements
@@ -45,9 +45,9 @@ Jabbar is an AI-powered assistant system that integrates voice recognition, spee
 
 ## How to Use
 
-Once the program is running, Japar will prompt you to select a mode (Friend, Teacher, Helper). You can then interact by speaking, and Japar will respond with relevant information, jokes, weather updates, stories, or display images as per the mode.
+Once the program is running, Jabbar will prompt you to select a mode (Friend, Teacher, Helper). You can then interact by speaking, and Jabbar will respond with relevant information, jokes, weather updates, stories, or display images as per the mode.
 
 ## Contributing
 
-If you'd like to contribute to Japar, feel free to open an issue or submit a pull request. We welcome contributions and feedback!
+If you'd like to contribute to Jabbar, feel free to open an issue or submit a pull request. We welcome contributions and feedback!
 
